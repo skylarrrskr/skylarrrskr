@@ -22,6 +22,11 @@ I built a command-line prototype that turns plain-English questions into structu
 
 [Planner implementation](https://github.com/skylarrrskr/credit-risk-analytics-agent/blob/main/src/llm_planner.py)
 
+### [Planetze — Carbon Footprint Tracker](https://github.com/skylarrrskr/Planetze)
+**Team lead · Android · Java · Firebase**
+
+I led a four-person team in a software engineering course to build an Android app that estimates users' carbon footprints. Users can log daily activities, see how their emissions change over time, and review suggestions for reducing them. The app stores activity logs in Firebase.
+
 ## Research and teaching
 
 - **Unity Health Toronto** — As a Research and Data Analyst, I used R for data preparation, statistical modelling, and model diagnostics in health research.
